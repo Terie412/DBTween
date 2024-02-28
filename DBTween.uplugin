@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "3.3",
+	"FriendlyName": "DBTween",
+	"Description": "This is a Plugin for Tweeen Animation",
+	"Category": "Other",
+	"CreatedBy": "DearBing",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bc7fcf7d4e60450ca51158289d355ff4",
+	"SupportURL": "",
+	"EngineVersion": {
+		"MinVersion": "5.1.0",
+		"MaxVersion": "5.3.0"
+	},
+	"CanContainContent": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Mac",
+		"Win64",
+		"Android",
+		"IOS",
+		"Linux"
+	],
+	"Modules": [
+		{
+			"Name": "DBTween",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Mac",
+				"Win64",
+				"Android",
+				"IOS",
+				"Linux"
+			]
+		}
+	]
+}
